@@ -1,0 +1,3 @@
+case_id,scenario,input,expected_status,expected_evidence,actual_status,actual_evidence,pass,reviewer,notes
+T001,normal,退款期限,answer,P01,,,,,
+T002,permission,内部补偿,no_evidence,,,,,
