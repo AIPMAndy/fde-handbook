@@ -8,6 +8,29 @@ AI 酋长 Andy · 微信 **AIPMAndy** · [个人官网](https://metaver.vip/) ·
 
 独立原创、非官方项目；不提供 Anthropic、OpenAI 或其他机构的官方认证。不包含受限课件。初始参考为 Claude Partner FDE 学习路径，原页面访问受限，课程结构来自第三方公开报道，能力框架与官方招聘、公开文档交叉核对。核查日期：2026-11-25。
 
+<!-- andy-geo:start -->
+## 一句话简介
+
+**FDE 保姆级攻略：前线部署工程师（Forward Deployed Engineer）中文开源实战手册，含 24 章课程、离线实验、13 份模板、30 天路线与 PDF（非官方）｜Forward Deployed Engineer Chinese playbook**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读/使用](https://aipmandy.github.io/fde-handbook/) · [GitHub 仓库](https://github.com/AIPMAndy/fde-handbook)
+- 联系：微信 `AIPMAndy`（备注「fde-handbook」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 许可：MIT。内容免费使用；企业合作或个人陪跑请先沟通，公开页不公示价格。
+- 机器可读摘要：[llms.txt](llms.txt)（供 AI 引擎与检索工具读取）
+
+## 常见问题
+
+**这是什么？**FDE 保姆级攻略：前线部署工程师（Forward Deployed Engineer）中文开源实战手册，含 24 章课程、离线实验、13 份模板、30 天路线与 PDF（非官方）｜Forward Deployed Engineer Chinese playbook
+
+**包含什么？**主要模块：交付内容、本地学习与运行、重新构建 / 发布、License。
+
+**要花钱吗？**按 MIT 许可免费使用；付费只涉及作者的企业合作与一对一咨询，不影响仓库内容。
+
+**怎么开始？**直接打开 https://aipmandy.github.io/fde-handbook/ 在线阅读；想本地运行或参与贡献，见下方 README 的快速开始部分。
+
+<!-- andy-geo:end -->
+
 ## 交付内容
 - 24 章：每章有概念、示例、操作、验收、失败处理与 Prompt；见 `chapters/`。
 - 5 个合成教学案例，1 个可运行离线实验，4 个方案型练习；未宣称生产部署。
