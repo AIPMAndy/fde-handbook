@@ -2,6 +2,8 @@
 
 **Forward Deployed Engineer（前线部署工程师）｜从业务需求到可验收的 AI 系统。**
 
+[在线学习站](https://aipmandy.github.io/fde-handbook/) · [AI 酋长 Andy](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/) · 微信 `AIPMAndy` · [GitHub](https://github.com/AIPMAndy)
+
 AI 酋长 Andy · 微信 **AIPMAndy** · [个人官网](https://metaver.vip/) · [公司官网](https://www.a6no1.cn/)。免费学习无需添加微信，咨询和合作完全自愿。
 
 独立原创、非官方项目；不提供 Anthropic、OpenAI 或其他机构的官方认证。不包含受限课件。初始参考为 Claude Partner FDE 学习路径，原页面访问受限，课程结构来自第三方公开报道，能力框架与官方招聘、公开文档交叉核对。核查日期：2026-11-25。
@@ -11,7 +13,7 @@ AI 酋长 Andy · 微信 **AIPMAndy** · [个人官网](https://metaver.vip/) ·
 - 5 个合成教学案例，1 个可运行离线实验，4 个方案型练习；未宣称生产部署。
 - 30 天学习路线和 12 周交付毕业项目，13 份可编辑模板及 16 个索引来源（另附公开案例文章）。
 - 手机友好网站，搜索、角色路线、学习进度、ROI 假设计算、模板和 PDF 下载。
-- PDF 和模板 ZIP 由 Pages 构建流程生成；尚未核验线上部署。发布成功后可在 [在线学习站](https://aipmandy.github.io/fde-handbook/) 下载。
+- PDF 和模板 ZIP 由 GitHub Pages Actions 构建发布，可在 [在线学习站](https://aipmandy.github.io/fde-handbook/) 直接阅读和下载。
 
 与既有 [Claude Code Agent 手册](https://github.com/AIPMAndy/anthropic-claude-code-agent-handbook) 不同，本项目围绕客户需求发现、交付、安全、业务验收、采用与职业能力。
 
